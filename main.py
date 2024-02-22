@@ -31,6 +31,10 @@ files = [
     "starknet-4.json",
     "starknet-5.json",
     "starknet-6.json",
+    "starknet-7.json",
+    "starknet-8.json",
+    "starknet-9.json",
+    "starknet-10.json",
 ]
 
 eligble_wallets = []
